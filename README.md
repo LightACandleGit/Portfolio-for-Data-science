@@ -14,7 +14,11 @@
 
 ### Computational Finance Projects
 
-  * [FEM for European and digital options in Black–Scholes
+  * [Project 1: FEM for European and digital options in Black–Scholes
 markets](https://www.docdroid.net/gG6pJ2W/project1-mmf120.pdf)
 
-      Project in Computation Finance, using matlab. Main task of the project is to price European and Digital options in Black-Scholes markets using FEM and study the convergence of the error rate while creating a finer mesh. A [link](http://www.math.chalmers.se/~krikir/projects/project1.pdf) to the project description 
+      Project in Computational Finance, using matlab. Main task of the project is to price European and Digital options in Black-Scholes markets using FEM and study the convergence of the error rate while creating a finer mesh. A [link](http://www.math.chalmers.se/~krikir/projects/project1.pdf) to the project description 
+
+  * [Project 2: European and American contracts under the CEV model](https://www.docdroid.net/l32FpvD/mmf120project2.pdf)
+  
+      Second project in Computational Finance. Main task here was to price European and American contracts under theCEV model using FEM. A link to the project description. 
