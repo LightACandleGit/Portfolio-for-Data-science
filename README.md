@@ -14,6 +14,8 @@
 
 ### Computational Finance Projects
 
+A PhD course in Computational Finance. Pricing of options using FEM with MatLab. A [link](http://www.math.chalmers.se/~krikir/ComputationalFinance.html) to the course website.
+
   * [Project 1: FEM for European and digital options in Black–Scholes
 markets](https://www.docdroid.net/gG6pJ2W/project1-mmf120.pdf)
 
