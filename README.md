@@ -23,4 +23,4 @@ markets](https://www.docdroid.net/gG6pJ2W/project1-mmf120.pdf)
 
   * [Project 2: European and American contracts under the CEV model](https://www.docdroid.net/l32FpvD/mmf120project2.pdf)
   
-      Second project in Computational Finance. Main task here was to price European and American contracts under theCEV model using FEM. A link to the project description. 
+      Second project in Computational Finance. Main task here was to price European and American contracts under the CEV model using FEM. A link to the project description. 
