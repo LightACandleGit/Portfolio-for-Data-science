@@ -2,15 +2,15 @@
 
 * [Data Exploratory Analysis using the BRFSS-2013 Dataset](http://rpubs.com/LightACandle/BRFSS2013)
 
-      Data Exploratory project using R to try and answer some questions regarding health.
+     Data Exploratory project using R to try and answer some questions regarding health.
 
 * [Smaller ML Project using Logistic Regression](http://rpubs.com/LightACandle/logisticregression)
 
-      Logistic Regression project using R for prediction of income.
+     Logistic Regression project using R for prediction of income.
 
 * [Smaller ML Project using Decision Trees and Random Forest](http://rpubs.com/LightACandle/logisticregression)
 
-      Decision tree project to try and predict whether a school is a private or public college.
+     Decision tree project to try and predict whether a school is a private or public college.
 
 ### Computational Finance Projects
 
