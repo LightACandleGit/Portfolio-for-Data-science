@@ -1,3 +1,6 @@
+Here I will collect projects I've done in the past, mostly using statistical methods (machine learning and AI) but also more general data analysis.
+
+
 ### Portfolio for ML Projects
 
 * [Data Exploratory Analysis using the BRFSS-2013 Dataset](http://rpubs.com/LightACandle/BRFSS2013)
