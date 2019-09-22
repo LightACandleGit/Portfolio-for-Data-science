@@ -6,6 +6,10 @@ Here I will collect projects I've done in the past, mostly using statistical met
 * [Data Exploratory Analysis using the BRFSS-2013 Dataset](http://rpubs.com/LightACandle/BRFSS2013)
 
      Data Exploratory project using R to try and answer some questions regarding health.
+     
+* [MoneyBall: Data Analysis Project](http://rpubs.com/LightACandle/MoneyBallproject)
+
+     A data analysis project inspired by the book MoneyBall by Michael Lewis. We try to find possible replacement players based on statistics and salary requirements.
 
 * [Smaller ML Project using Logistic Regression](http://rpubs.com/LightACandle/logisticregression)
 
