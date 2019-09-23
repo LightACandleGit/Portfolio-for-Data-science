@@ -19,6 +19,10 @@ Here I will collect projects I've done in the past, mostly using statistical met
 
      Decision tree project to try and predict whether a school is a private or public college.
 
+* [Visualizaion Project](http://rpubs.com/LightACandle/economistlike)
+
+     A smaller visualization project where we visualize the HDI vs CPI in a 'Economist' style.
+
 ### Computational Finance Projects
 
 A PhD course in Computational Finance. Pricing of options using FEM with MatLab. A [link](http://www.math.chalmers.se/~krikir/ComputationalFinance.html) to the course website.
