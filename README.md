@@ -1,4 +1,4 @@
-Here I will collect projects I've done in the past, mostly using statistical methods (machine learning and AI) but also more general data analysis.
+Here I will collect projects I've done in the past, mostly using statistical methods (machine learning and AI) but also more general data analysis. The complete R portfolio published on RPubs can be found here: [Link](http://rpubs.com/LightACandle/).
 
 
 ### Portfolio for ML Projects
