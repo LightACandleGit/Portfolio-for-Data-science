@@ -41,8 +41,16 @@ markets](https://www.docdroid.net/gG6pJ2W/project1-mmf120.pdf)
 My Master's thesis: 
 
   * [Master's Thesis](http://www.math.chalmers.se/~palbin/Christian_Kallgren.pdf)
-  
-      I look at the performance of maximum likelihood methods for estimation of parameters for specific stochastic differential equations. But also some numerical simulation methods, and their performances. 
+    
+      [Abstract]: We look at numerical methods for simulation of stochastic differential equations
+exhibiting volatility induced stationarity. This is a property of the process which
+means that the stationary behaviour is mostly imposed by how volatile the process
+is. The property creates issues in simulation and hence also in statistical methods.
+The methods considered for simulations are the fully implicit Euler scheme and timechanged
+simulation. We look at statistical methods for estimation of parameters.
+The specific statistical methods we investigate is the likelihood ratio, which gives
+expressions for the drift parameters for CKLS and least squares estimation, which is
+used together with quadratic variation to estimate parameters in different models.
 
 My Bachelor's thesis written in Swedish:
 
