@@ -40,7 +40,7 @@ markets](https://www.docdroid.net/gG6pJ2W/project1-mmf120.pdf)
 
 ### Thesis
 
-Here I show my Master's and Bachelor's thesis at the Mathematical Statistics program at the University of Gothenburg. 
+Here I show my Master's and Bachelor's theses at the Mathematical Statistics program at the University of Gothenburg. 
 
 My Master's thesis: 
 
