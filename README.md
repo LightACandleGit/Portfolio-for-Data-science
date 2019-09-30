@@ -3,9 +3,7 @@ Here I will collect projects I've done in the past, mostly using statistical met
 
 ### Portfolio for ML Projects
 
-* [Data Exploratory Analysis using the BRFSS-2013 Dataset](http://rpubs.com/LightACandle/BRFSS2013)
 
-     Data Exploratory project using R to try and answer some questions regarding health.
      
 * [MoneyBall: Data Analysis Project](http://rpubs.com/LightACandle/MoneyBallproject)
 
@@ -22,6 +20,10 @@ Here I will collect projects I've done in the past, mostly using statistical met
 * [Visualizaion Project](http://rpubs.com/LightACandle/economistlike)
 
      A smaller visualization project where we visualize the HDI vs CPI in a 'Economist' style.
+     
+* [Data Exploratory Analysis using the BRFSS-2013 Dataset](http://rpubs.com/LightACandle/BRFSS2013)
+
+     Data Exploratory project using R to try and answer some questions regarding health.
 
 ### Computational Finance Projects
 
