@@ -3,7 +3,7 @@ Here I will collect projects I've done in the past, mostly using statistical met
 
 ### Portfolio for ML Projects
 
-
+Projects written in R:
      
 * [MoneyBall: Data Analysis Project](http://rpubs.com/LightACandle/MoneyBallproject)
 
