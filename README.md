@@ -17,7 +17,7 @@ Projects written in R:
 
      Decision tree project to try and predict whether a school is a private or public college.
 
-* [Visualizaion Project](http://rpubs.com/LightACandle/economistlike)
+* [Visualization Project](http://rpubs.com/LightACandle/economistlike)
 
      A smaller visualization project where we visualize the HDI vs CPI in a 'Economist' style.
      
